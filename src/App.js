@@ -4,13 +4,6 @@ import { css } from "styled-components/macro"; //eslint-disable-line
 
 /* Use AnimationRevealPage as a wrapper component for your pages if you are building a custom one yourself */
 // import AnimationRevealPage from "helpers/AnimationRevealPage.js";
-
-/*
- * Her22o section is the top most section on the page. It contains the header as well.
- * So you dont need to import headers
- * separately
- */
-
 // import Hero from "components/hero/TwoColumnWithVideo.js";
 // import Hero from "components/hero/TwoColumnWithInput.js";
 // import Hero from "components/hero/TwoColumnWithFeaturesAndTestimonial.js";
